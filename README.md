@@ -14,3 +14,15 @@ The application should fulfill the following functionalities:
 -A submenu with two options, connectivity verification (ping), and extraction of differences between two configurations.     
 
 The project is done and tested in GNS3.    
+
+![text](./images/1.jpg)
+
+![text](./images/2.jpg)
+
+![text](./images/3.png)
+
+![text](./images/4.png)
+
+![text](./images/5.png)
+
+![text](./images/6.png)
